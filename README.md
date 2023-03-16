@@ -1,6 +1,11 @@
 <img src="https://res.cloudinary.com/oypax/images/v1677172997/Anouar-Aissaoui_86270adc/Anouar-Aissaoui_86270adc.jpg?_i=AA" />
 <h1 align="center">Hi 👋, I'm Anouar Aissaoui</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+
+**Who is Anouar Aissaoui?**
+
+Is a Full Stack Web Developer providing professional Web Strategy services including Custom development, SEO engineering, and local search marketing strategies. 
+
+I prefer to speak in Long-term numbers, I’m experienced in Web Development, search engine strategy (SEO & SEM), and digital consulting services that is enough to make your current Agency do Great by running end-to-end CRO programs for large organizations, spanning testing, personalization and all the necessary processes for years.
 
 <p align="left"> <a href="https://twitter.com/anouaraissaoui_" target="blank"><img src="https://img.shields.io/twitter/follow/anouaraissaoui_?logo=twitter&style=for-the-badge" alt="anouaraissaoui_" /></a> </p>
 
@@ -9,12 +14,6 @@
 - 🌱 I’m currently learning **Artificial intelligence**
 
 - 📝 I regularly write articles on [anouaraissaoui.com](anouaraissaoui.com)
-
-- 💬 Ask me about  **Who is Anouar Aissaoui?**
-
-Is a Full Stack Web Developer providing professional Web Strategy services including Custom development, SEO engineering, and local search marketing strategies. 
-
-I prefer to speak in Long-term numbers, I’m experienced in Web Development, search engine strategy (SEO & SEM), and digital consulting services that is enough to make your current Agency do Great by running end-to-end CRO programs for large organizations, spanning testing, personalization and all the necessary processes for years.
 
 - 📫 How to reach me **mail@anouaraissaoui.com**
 
